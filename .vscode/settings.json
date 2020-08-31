@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "/home/karthikkaryamapudi/.platformio/penv/bin/python3",
+    "files.associations": {
+        "cstdio": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "initializer_list": "cpp",
+        "cmath": "cpp"
+    }
+}
